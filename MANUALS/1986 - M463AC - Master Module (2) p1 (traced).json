@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/973c763a58065906-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 8.6, 310.5, 422.5],
+ "outlines": {
+  "line": {"rings": 119, "straight": {"n": 1554, "mm": 4581.5}, "curved": {"n": 261, "mm": 478.4}},
+  "text": {"rings": 111, "straight": {"n": 1061, "mm": 1344.1}, "curved": {"n": 248, "mm": 412.8}}
+ },
+ "circles": [{"c": [175.4, 223.6], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [145.1, 405.5, 149.6, 408.7], "w": 4.5, "h": 3.2, "from": "ring"}],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [202.3, 402.4, 230.8, 409.6], "text": "YSTE"},
+   {"mm": [255.8, 402.4, 275.9, 409.9], "text": "LTD"},
+   {"mm": [126.5, 396.0, 179.8, 401.2], "text": "~ss \"vE NuE."},
+   {"mm": [226.5, 396.0, 248.5, 401.2], "text": "ONT\"\"\"\"O"},
+   {"mm": [135.6, 391.0, 142.3, 395.3], "text": "06"},
+   {"mm": [155.7, 391.2, 166.2, 395.3], "text": ":t99"},
+   {"mm": [202.3, 391.0, 234.0, 396.3], "text": ".,.,.LEPI-4ONE."},
+   {"mm": [131.9, 234.9, 193.7, 247.1], "text": "M463AC"},
+   {"mm": [126.5, 219.1, 200.6, 225.4], "text": "MASTER MODULE"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [214.8, 61.1, 234.9, 65.9], "text": "MAN UA"},
+   {"mm": [246.6, 53.5, 288.9, 65.9], "text": "SSUE /11 BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 9–422 mm up",
+  "- **Outlines:** line 119 rings, 1,554 straight (4,582 mm) / 261 curved (478 mm); text 111 rings, 1,061 straight (1,344 mm) / 248 curved (413 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (175.4, 223.6)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 20 in 14 lines: YSTE · LTD · ~ss \"vE NuE. · ONT\"\"\"\"O · 06 · :t99 · .,.,.LEPI-4ONE. · M463AC · MASTER MODULE · ps · MAN UA · SSUE /11 BS"
+ ]
+}

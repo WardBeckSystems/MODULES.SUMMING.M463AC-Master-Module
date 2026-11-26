@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module.pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/b32e6044bdd5541d-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.8, 335.3, 424.7],
+ "outlines": {
+  "line": {"rings": 110, "straight": {"n": 2429, "mm": 5369.2}, "curved": {"n": 296, "mm": 455.5}},
+  "text": {"rings": 100, "straight": {"n": 756, "mm": 858.1}, "curved": {"n": 224, "mm": 375.4}}
+ },
+ "circles": [{"c": [332.2, 265.9], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [288.9, 223.0, 327.3, 242.2], "w": 38.4, "h": 19.2, "from": "ring"},
+  {"mm": [269.5, 203.3, 288.4, 242.0], "w": 18.9, "h": 38.7, "from": "ring"},
+  {"mm": [288.9, 182.9, 327.3, 202.7], "w": 38.4, "h": 19.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [165.2, 345.9, 185.7, 352.8], "text": "FADER"},
+   {"mm": [4.3, 342.8, 35.0, 349.8], "text": "SUMMING"},
+   {"mm": [10.8, 336.8, 24.8, 343.3], "text": "BUS"},
+   {"mm": [68.4, 337.2, 82.5, 344.2], "text": "SUM"},
+   {"mm": [108.0, 337.2, 124.6, 343.7], "text": "8-109A"},
+   {"mm": [161.9, 337.9, 187.2, 344.4], "text": "(_15dB)"},
+   {"mm": [218.5, 338.5, 235.8, 345.0], "text": "I8-109F"},
+   {"mm": [8.0, 330.3, 28.1, 336.8], "text": "INPUT"},
+   {"mm": [291.2, 318.5, 315.0, 325.4], "text": "(-18dB)"},
+   {"mm": [292.3, 246.1, 324.7, 253.1], "text": "PREfpost"},
+   {"mm": [293.0, 206.8, 325.4, 213.8], "text": "PRE[POST"},
+   {"mm": [154.4, 161.9, 187.2, 168.9], "text": "PRE FADE"},
+   {"mm": [159.3, 156.3, 180.3, 161.6], "text": "INPUT"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 6–425 mm up",
+  "- **Outlines:** line 110 rings, 2,429 straight (5,369 mm) / 296 curved (456 mm); text 100 rings, 756 straight (858 mm) / 224 curved (375 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (332.2, 265.9)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 13 in 13 lines: FADER · SUMMING · BUS · SUM · 8-109A · (_15dB) · I8-109F · INPUT · (-18dB) · PREfpost · PRE[POST · PRE FADE"
+ ]
+}

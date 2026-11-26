@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module (2).pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/973c763a58065906-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 22.5, 334.9, 422.7],
+ "outlines": {
+  "line": {"rings": 497, "straight": {"n": 4379, "mm": 7346.8}, "curved": {"n": 1042, "mm": 1658.6}},
+  "text": {"rings": 220, "straight": {"n": 1566, "mm": 1895.0}, "curved": {"n": 372, "mm": 581.2}}
+ },
+ "circles": [
+  {"c": [186.4, 358.2], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [106.9, 331.8], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [91.7, 317.8], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [193.8, 159.9], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [47.1, 410.6, 52.0, 415.2], "w": 5.0, "h": 4.5, "from": "ring"}],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [43.0, 45.1, 92.4, 50.4], "text": "WBS re<:omm end"},
+   {"mm": [118.5, 45.1, 124.4, 50.4], "text": "Se"},
+   {"mm": [150.7, 45.1, 170.1, 50.4], "text": "la me"},
+   {"mm": [182.2, 45.1, 193.0, 50.4], "text": "par"},
+   {"mm": [203.2, 45.1, 210.5, 50.4], "text": "ma"},
+   {"mm": [236.0, 45.1, 273.5, 50.4], "text": "the sp if ie"},
+   {"mm": [43.0, 38.4, 130.6, 43.7], "text": "man uf ac tu rers fo cont inu"},
+   {"mm": [142.3, 38.4, 168.2, 43.7], "text": "optimum"},
+   {"mm": [190.9, 38.4, 197.8, 43.7], "text": "me"},
+   {"mm": [212.9, 38.4, 244.6, 43.7], "text": "erformanc"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [193.9, 159.9], "r": 0.7, "lines": 0}, {"c": [249.8, 40.1], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 22–423 mm up",
+  "- **Outlines:** line 497 rings, 4,379 straight (7,347 mm) / 1,042 curved (1,659 mm); text 220 rings, 1,566 straight (1,895 mm) / 372 curved (581 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.1 @ (186.4, 358.2), r 2.1 @ (106.9, 331.8), r 1.7 @ (91.7, 317.8), r 1.7 @ (193.8, 159.9)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 27 in 14 lines: ps · BS · WBS re<:omm end · Se · la me · par · ma · the sp if ie · man uf ac tu rers fo cont inu · optimum · me · erformanc"
+ ]
+}

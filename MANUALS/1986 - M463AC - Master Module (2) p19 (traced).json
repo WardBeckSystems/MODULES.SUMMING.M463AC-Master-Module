@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module (2).pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/973c763a58065906-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 5.8, 335.3, 424.7],
+ "outlines": {
+  "line": {"rings": 150, "straight": {"n": 2598, "mm": 5494.5}, "curved": {"n": 395, "mm": 650.6}},
+  "text": {"rings": 91, "straight": {"n": 820, "mm": 1155.5}, "curved": {"n": 163, "mm": 270.9}}
+ },
+ "circles": [
+  {"c": [332.2, 265.9], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [313.9, 249.8], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [314.9, 210.4], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [288.9, 223.0, 327.3, 242.2], "w": 38.4, "h": 19.2, "from": "ring"},
+  {"mm": [269.5, 203.3, 288.4, 242.0], "w": 18.9, "h": 38.7, "from": "ring"},
+  {"mm": [288.9, 182.9, 327.3, 202.7], "w": 38.4, "h": 19.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [5.4, 343.3, 34.3, 348.3], "text": "SUMMING"},
+   {"mm": [11.7, 337.7, 24.2, 342.7], "text": "BUS"},
+   {"mm": [37.8, 337.7, 68.0, 342.5], "text": "f----l"},
+   {"mm": [16.4, 330.8, 27.4, 335.8], "text": "PUT"},
+   {"mm": [293.0, 318.7, 313.9, 324.9], "text": "(-rses)"},
+   {"mm": [326.7, 262.3, 335.5, 266.9], "text": "COl"},
+   {"mm": [327.3, 256.3, 334.9, 260.8], "text": "CO"},
+   {"mm": [293.4, 246.1, 324.5, 251.2], "text": "PRE/POST"},
+   {"mm": [294.1, 206.6, 325.4, 211.7], "text": "PRE/POST"},
+   {"mm": [155.0, 162.1, 185.9, 167.2], "text": "PR FADE"},
+   {"mm": [153.3, 154.6, 179.6, 159.6], "text": "_INPUT"},
+   {"mm": [284.6, 59.2, 305.5, 68.3], "text": "ps"},
+   {"mm": [273.1, 47.5, 294.9, 59.0], "text": "BS"},
+   {"mm": [250.7, 25.3, 269.2, 32.5], "text": "tp"},
+   {"mm": [243.5, 17.9, 264.5, 25.1], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 6–425 mm up",
+  "- **Outlines:** line 150 rings, 2,598 straight (5,494 mm) / 395 curved (651 mm); text 91 rings, 820 straight (1,156 mm) / 163 curved (271 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.2 @ (332.2, 265.9), r 2.2 @ (313.9, 249.8), r 2.1 @ (314.9, 210.4)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 16 in 15 lines: SUMMING · BUS · f----l · PUT · (-rses) · COl · CO · PRE/POST · PRE/POST · PR FADE · _INPUT · ps"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/b32e6044bdd5541d-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 8.6, 299.3, 422.5],
+ "outlines": {
+  "line": {"rings": 35, "straight": {"n": 657, "mm": 2936.4}, "curved": {"n": 62, "mm": 95.1}},
+  "text": {"rings": 157, "straight": {"n": 1603, "mm": 2286.4}, "curved": {"n": 369, "mm": 638.5}},
+  "tb": {"rings": 6, "straight": {"n": 123, "mm": 334.9}, "curved": {"n": 16, "mm": 27.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [46.6, 393.2, 249.8, 408.3], "text": "WBS 841 PAOGRESS AVENUE; SCAABOROUGH, ONTAAIO"},
+   {"mm": [115.9, 402.7, 277.9, 411.3], "text": "WARO-BECK SYSTEMS LTD"},
+   {"mm": [114.6, 392.1, 132.3, 396.9], "text": "TELeX"},
+   {"mm": [134.5, 391.6, 166.5, 396.9], "text": "D65-25399"},
+   {"mm": [201.4, 391.6, 275.3, 396.9], "text": "TELEPHONE 416/433-655C"},
+   {"mm": [130.6, 234.5, 196.3, 250.8], "text": "M463AC"},
+   {"mm": [125.7, 219.4, 201.4, 228.0], "text": "MASTER MODULE"},
+   {"mm": [214.2, 60.9, 261.2, 67.4], "text": "MANUAL ISSUE"},
+   {"mm": [213.3, 47.3, 251.3, 55.2], "text": "APRIL 1986"}
+  ]
+ },
+ "title_block": {
+  "mm": [40.0, 52.3, 267.8, 419.9],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS 841 PAOGRESS AVENUE; SCAABOROUGH, ONTAAIO",
+   "WARO-BECK SYSTEMS LTD",
+   "TELeX",
+   "D65-25399",
+   "TELEPHONE 416/433-655C",
+   "M463AC",
+   "MASTER MODULE",
+   "MANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–299 mm across, 9–422 mm up",
+  "- **Outlines:** line 35 rings, 657 straight (2,936 mm) / 62 curved (95.1 mm); text 157 rings, 1,603 straight (2,286 mm) / 369 curved (638 mm); tb 6 rings, 123 straight (335 mm) / 16 curved (27.7 mm)",
+  "- **Words (OCR):** 15 in 9 lines: WBS 841 PAOGRESS AVENUE; SCAABOROUGH, ONTAAIO · WARO-BECK SYSTEMS LTD · TELeX · D65-25399 · TELEPHONE 416/433-655C · M463AC · MASTER MODULE · MANUAL ISSUE · APRIL 1986",
+  "- **Title block:** (40, 52)–(268, 420) mm: WBS 841 PAOGRESS AVENUE; SCAABOROUGH, ONTAAIO · WARO-BECK SYSTEMS LTD · TELeX · D65-25399 · TELEPHONE 416/433-655C · M463AC · MASTER MODULE · MANUAL ISSUE"
+ ]
+}

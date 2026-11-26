@@ -1,0 +1,94 @@
+{
+ "drawing": "Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/973c763a58065906-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "33"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.8, 0.0, 329.9, 426.0],
+ "outlines": {
+  "line": {"rings": 705, "straight": {"n": 7320, "mm": 11469.8}, "curved": {"n": 1834, "mm": 2540.3}},
+  "text": {"rings": 189, "straight": {"n": 1320, "mm": 1415.8}, "curved": {"n": 397, "mm": 561.5}}
+ },
+ "circles": [
+  {"c": [155.0, 203.5], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [155.0, 245.3], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [155.1, 192.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {
+   "mm": [142.4, 122.6, 187.4, 316.9],
+   "w": 45.0,
+   "h": 194.4,
+   "from": "ring",
+   "words": ["0;1", "WIIS", "Ii", "1'0", "FB", "F;6-:'O", "id9", "RS", "I~o-:'Om!", "sO"]
+  },
+  {"mm": [318.7, 51.8, 328.0, 56.3], "w": 9.3, "h": 4.5, "from": "ring"},
+  {"mm": [224.7, 16.0, 249.1, 20.5], "w": 24.5, "h": 4.5, "from": "ring"},
+  {"mm": [249.7, 7.2, 259.6, 15.5], "w": 9.8, "h": 8.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [175.5, 306.4, 186.8, 317.4], "text": "0;1"},
+   {"mm": [148.1, 308.1, 155.2, 311.2], "text": "WIIS"},
+   {"mm": [185.7, 271.6, 187.8, 281.2], "text": "Ii"},
+   {"mm": [208.6, 250.4, 236.8, 253.6], "text": "FOLO'.CX LEYE!."},
+   {"mm": [240.3, 250.4, 261.7, 253.8], "text": "eeee ee lt3,"},
+   {"mm": [274.2, 250.4, 286.7, 253.8], "text": "COln,.o;"},
+   {"mm": [295.8, 250.4, 307.2, 253.6], "text": "ve co"},
+   {"mm": [143.4, 239.4, 178.5, 249.0], "text": "1'0 FB"},
+   {"mm": [208.6, 247.2, 218.3, 249.8], "text": "wut Du"},
+   {"mm": [145.5, 229.7, 179.8, 241.2], "text": "F;6-:'O"},
+   {"mm": [143.6, 198.0, 178.1, 207.1], "text": "id9 RS"},
+   {"mm": [143.6, 183.7, 186.1, 199.6], "text": "I~o-:'Om!"},
+   {"mm": [16.2, 151.8, 21.2, 154.7], "text": "SOl"},
+   {"mm": [34.1, 151.8, 50.7, 154.7], "text": "cCIl $W7:"},
+   {"mm": [70.0, 151.3, 99.5, 154.5], "text": "oeDr., s.o. the"},
+   {"mm": [103.6, 150.9, 111.4, 155.0], "text": "po sc"},
+   {"mm": [145.1, 146.8, 159.1, 157.4], "text": "sO"},
+   {"mm": [39.9, 148.5, 43.2, 151.4], "text": "fe"},
+   {"mm": [68.0, 148.3, 90.2, 151.2], "text": "SOLO ou DU"},
+   {"mm": [284.6, 59.2, 305.5, 68.3], "text": "ps"},
+   {"mm": [273.1, 47.5, 294.9, 59.0], "text": "BS"},
+   {"mm": [249.4, 49.4, 266.9, 53.3], "text": "ISSUl !OAn"},
+   {"mm": [250.7, 24.0, 304.6, 32.5], "text": "tp MASTER MODULE"},
+   {"mm": [285.0, 29.6, 299.2, 33.2], "text": "Ab JAC"},
+   {"mm": [243.5, 17.9, 302.7, 25.1], "text": "ht FRONT PANEL"},
+   {"mm": [313.7, 13.2, 321.0, 16.0], "text": "ISSU!"},
+   {"mm": [267.7, 7.3, 303.8, 12.9], "text": "63-04- 104"}
+  ]
+ },
+ "dots": [
+  {"c": [301.9, 234.9], "r": 1.0, "lines": 0},
+  {"c": [248.6, 234.6], "r": 1.1, "lines": 0},
+  {"c": [32.8, 231.5], "r": 1.1, "lines": 0},
+  {"c": [30.5, 231.3], "r": 1.0, "lines": 0},
+  {"c": [110.7, 197.5], "r": 1.1, "lines": 0},
+  {"c": [101.0, 197.5], "r": 1.1, "lines": 0},
+  {"c": [30.8, 197.0], "r": 1.0, "lines": 0},
+  {"c": [36.7, 193.7], "r": 1.1, "lines": 0},
+  {"c": [215.1, 189.0], "r": 1.1, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–330 mm across, 0–426 mm up",
+  "- **Outlines:** line 705 rings, 7,320 straight (11,470 mm) / 1,834 curved (2,540 mm); text 189 rings, 1,320 straight (1,416 mm) / 397 curved (562 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.5 @ (155.0, 203.5), r 2.4 @ (155.0, 245.3), r 2.3 @ (155.1, 192.5)",
+  "- **Closed boxes:** 4; named: 0;1 WIIS Ii 1'0 FB F;6-:'O id9 RS I~o-:'",
+  "- **Dots (junctions):** 9",
+  "- **Words (OCR):** 47 in 27 lines: 0;1 · WIIS · Ii · FOLO'.CX LEYE!. · eeee ee lt3, · COln,.o; · ve co · 1'0 FB · wut Du · F;6-:'O · id9 RS · I~o-:'Om!"
+ ]
+}
