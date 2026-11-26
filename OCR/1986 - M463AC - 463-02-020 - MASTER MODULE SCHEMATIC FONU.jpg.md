@@ -23,7 +23,7 @@ Wiki page: [M463AC](../../../../PAGES/M463AC.md)
 - **Title block:** (224, 1)–(335, 60) mm: Issu IDatE · REYISIOH · WES · WARD-BECK SYSTEMB · [.4M318 · Datt. · AM · M463 Ac · MASTER MODULE · CKD: · SCHEMATIC · SCAU · ISSUE · 463-02-020
 - **Wiring (first pass):** 72 connected wire groups from 262 runs; labelled ends: 458 mm → Rzc, iki, R28, 330; 363 mm → R28, 330, sw3; 242 mm → R+5 2.2, R46 2.2, 257, 254; 141 mm → 5w7, swa, SwS, R52; 104 mm → R3b, ZkS, SwS
 
-Every curve, box, word and wire group: [1986 - M463AC - 463-02-020 - MASTER MODULE SCHEMATIC FONU (traced).json](../SCHEMATICS/1986%20-%20M463AC%20-%20463-02-020%20-%20MASTER%20MODULE%20SCHEMATIC%20FONU%20(traced).json) (the CAD file: `1986 - M463AC - 463-02-020 - MASTER MODULE SCHEMATIC FONU (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - 463-02-020 - MASTER MODULE SCHEMATIC FONU (traced).json](../SCHEMATICS/1986%20-%20M463AC%20-%20463-02-020%20-%20MASTER%20MODULE%20SCHEMATIC%20FONU%20%28traced%29.json) (the CAD file: `1986 - M463AC - 463-02-020 - MASTER MODULE SCHEMATIC FONU (traced).dxf`).
 
 ## Full text
 

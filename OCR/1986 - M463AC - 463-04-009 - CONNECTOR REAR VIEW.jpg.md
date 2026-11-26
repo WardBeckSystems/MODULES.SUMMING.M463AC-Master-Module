@@ -18,7 +18,7 @@ Wiki page: [M463AC](../../../../PAGES/M463AC.md)
 - **Outlines:** line 267 rings, 5,647 straight (11,997 mm) / 614 curved (1,006 mm); text 537 rings, 4,849 straight (6,408 mm) / 1,025 curved (1,742 mm)
 - **Closed boxes:** 76
 
-Every curve, box, word and wire group: [1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1986%20-%20M463AC%20-%20463-04-009%20-%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1986%20-%20M463AC%20-%20463-04-009%20-%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

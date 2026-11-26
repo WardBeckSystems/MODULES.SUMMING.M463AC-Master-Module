@@ -22,7 +22,7 @@ Wiki page: [M463AC](../../../../PAGES/M463AC.md)
 - **Words (OCR):** 15 in 9 lines: WBS 841 PAOGRESS AVENUE; SCAABOROUGH, ONTAAIO · WARO-BECK SYSTEMS LTD · TELeX · D65-25399 · TELEPHONE 416/433-655C · M463AC · MASTER MODULE · MANUAL ISSUE · APRIL 1986
 - **Title block:** (40, 52)–(268, 420) mm: WBS 841 PAOGRESS AVENUE; SCAABOROUGH, ONTAAIO · WARO-BECK SYSTEMS LTD · TELeX · D65-25399 · TELEPHONE 416/433-655C · M463AC · MASTER MODULE · MANUAL ISSUE
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p1 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p1%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p1 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p1%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p1 (traced
 - **Words (OCR):** 65 in 48 lines: WAAD-BECK · systems LTD · TABLE · OF CONTENTS · M463AC MASTER MODULE · SECTION · PAGE · Warranty · Technical Data · 1-1 · Circuit Description · 2-1 to
 - **Title block:** (20, 403)–(128, 427) mm: WAAD-BECK · systems LTD
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p2 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p2%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p2 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p2%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -42,7 +42,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p2 (traced
 - **Words (OCR):** 159 in 87 lines: WAAD-BECK · systems LTD_ · TECHNICAL DATA · ML63AC MASTER · MODULE · Gain: · 18 · dB +/- 0.5 dB · (with fader in · 15 dB · "in-hand" position) · Frequency Response:
 - **Title block:** (19, 403)–(126, 427) mm: WAAD-BECK · systems LTD_
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p3 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p3%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p3 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p3%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -51,7 +51,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p3 (traced
 - **Outlines:** line 74 rings, 1,258 straight (3,780 mm) / 196 curved (321 mm); text 1,881 rings, 12,974 straight (14,245 mm) / 4,032 curved (6,262 mm)
 - **Words (OCR):** 284 in 139 lines: WAAD-BECK · CiRcuiT DESCR IPTION · ML63AC · MASTER · MODULE · The ML63AC is · designed to accept · combined or · mixed feeds from · previously assigned · mixing channel inputs . · mixing
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p4 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p4%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p4 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p4%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p4 (traced
 - **Outlines:** line 62 rings, 1,249 straight (4,111 mm) / 170 curved (278 mm); text 1,317 rings, 9,539 straight (10,756 mm) / 2,879 curved (4,488 mm)
 - **Words (OCR):** 193 in 88 lines: WAAD-BECX · LTD · CIRcuIT DESCRIPTION · M463AC MASTER MQDULE · DIRECT_Quteut · The DIRECT output appears · pins 16 and · at · Auxiliary · Outeuts · In · addition, SOLO output is
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p5 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p5%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p5 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p5%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -70,7 +70,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p5 (traced
 - **Words (OCR):** 124 in 108 lines: WAAD-BECK · Systems LTD_ · PARTS · LiST · M463AC MASTER MODULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · C1 · Capacitor 330 · uF/6
 - **Title block:** (22, 402)–(129, 426) mm: WAAD-BECK · Systems LTD_
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p6 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p6%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p6 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p6%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p6 (traced
 - **Outlines:** line 169 rings, 1,432 straight (4,265 mm) / 225 curved (346 mm); text 546 rings, 4,256 straight (4,995 mm) / 1,191 curved (1,882 mm)
 - **Words (OCR):** 103 in 95 lines: WAAD-BECK Systems LTD, · PARTS LiST · ML63AC · MASTER MODULE · PART DESCR IPT ION · MFG · MFG PART · NUMBER · Transistor · 06 · National · FN3645
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p7 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p7%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p7 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p7%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p7 (traced
 - **Words (OCR):** 89 in 82 lines: WAAD-BECK · systems LTD · PARTS List · M463AC MASTER · MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · R29 · R30
 - **Title block:** (20, 226)–(246, 429) mm: WAAD-BECK · systems LTD · PARTS List · M463AC MASTER · MODULE · PART · DESCRIPTION · MFG · MFG PART · R29 · R30 · Potentiometer · A/B · WBS 10-017 · R3I · R32 · R33 · Resistor · 1/4w5% · 1K8 · Philips
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p8 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p8%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p8 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p8%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -99,7 +99,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p8 (traced
 - **Words (OCR):** 76 in 58 lines: WAAD-BECK SYsTemS LTD · PARTS LiST · ML63AC MASTER · MODULE · PART DESCRIPTION · MFG · MFG PART · NUMBER · R63 · 1/4w · 5%6 15K · Philips
 - **Title block:** (20, 36)–(247, 425) mm: WAAD-BECK SYsTemS LTD · PARTS LiST · ML63AC MASTER · MODULE · PART DESCRIPTION · MFG · MFG PART · R63 · 1/4w · 5%6 15K · Philips · Resistor · R64 · R65 · 470k · R66 · 2k2 · R67 · 2k7 · R68 · 2.2 · R69
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p9 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p9%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p9 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p9%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -108,7 +108,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p9 (traced
 - **Outlines:** line 23 rings, 695 straight (2,644 mm) / 56 curved (89.1 mm); text 57 rings, 502 straight (639 mm) / 94 curved (155 mm)
 - **Words (OCR):** 5 in 2 lines: WAAD-BECK SYsTeMS LTD_ · 8-109 AMPL IFIER SERIES
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p10 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p10%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p10 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p10%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -120,7 +120,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p10 (trace
 - **Words (OCR):** 267 in 178 lines: WARD-BECK SYSTEMS LTD, · Mo · DESCRIPTION · 23 · 8-109 · AMPLIFIER · SERIES · The · 8-109 · series of · amplifiers are · utilized as
 - **Title block:** (30, 309)–(160, 425) mm: WARD-BECK SYSTEMS LTD, · Mo · 23 · 8-109 · The · 8-109 · series of · amplifiers are · within · various · WBS series · mounts as · amplifier
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p11 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p11%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p11 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p11%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -129,7 +129,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p11 (trace
 - **Outlines:** line 69 rings, 1,225 straight (3,377 mm) / 135 curved (221 mm); text 1,935 rings, 13,911 straight (14,785 mm) / 4,102 curved (6,471 mm)
 - **Words (OCR):** 321 in 163 lines: WARD-BECK SYSTEMS LTD_ · 4o · DESCRIPT ION · 8-109 · AMPL IFIER SERIES · Ins · Output Level Ce 28 · dBm maximum. 7c · eot-3 · eon- · 36 · lubon
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p12 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p12%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p12 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p12%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -139,7 +139,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p12 (trace
 - **Words (OCR):** 139 in 115 lines: WARD-BECK · SYSTEMS LT_ · GTJ · T2i PARTS LiST · 21138-109 AMPLIFIER SERIES · e01-8 · 8-109 · 37M · TAA9 · PARI · DESCRIPTION · MFG
 - **Title block:** (30, 400)–(159, 427) mm: WARD-BECK · SYSTEMS LT_
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p13 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p13%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p13 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p13%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -149,7 +149,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p13 (trace
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (165.7, 204.2)
 - **Words (OCR):** 127 in 117 lines: WARD-BECK SYSTEMS · LTD_ · 0TJ · PARTS LiST · T2i · SERIES · 8-109 AMPLIFIER · 8-109 · 201-e · PART · DESCRIPTION · MFG
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p14 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p14%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p14 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p14%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -159,7 +159,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p14 (trace
 - **Words (OCR):** 146 in 105 lines: WAAD-BECK SYSTEMS LTD_ · OTJ aMateya 4o38-JAAW · PARTS LIST · 8-109 · AMPLIFIER SERIES · 8-109A · e0i-8 794 · 26 · VIA · AII parts as · per · 8-109 except as
 - **Title block:** (29, 400)–(138, 426) mm: WAAD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p15 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p15%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p15 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p15%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -169,7 +169,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p15 (trace
 - **Words (OCR):** 144 in 100 lines: WAAD-BECK · SYSTEMS LTD_ · OTJ ZMataye Xoaa-OAAW · PARTS LiST · 8-109 AMPL IFIER SERIES · 8-109D · AII · parts as · per · 8-109 except as · noted below · 78G
 - **Title block:** (29, 404)–(138, 429) mm: WAAD-BECK · SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p16 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p16%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p16 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p16%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -179,7 +179,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p16 (trace
 - **Words (OCR):** 50 in 35 lines: WAAD-BECK · SYSTEMS · LTD_ · PARTS LiST · 8-109 · AMPLIFIER SERIES · 8-109G · AII parts per · as · 8-109 except as · noted · below
 - **Title block:** (30, 132)–(138, 424) mm: WAAD-BECK · SYSTEMS · 8-109G · AII parts per · as · PART · DESCIPT ION · C6 · Capacitor 4.7 pF · C11 · R15 · Resistor · 1/4w · WBS recommends the use · manufacturers for continued
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p17 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p17%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p17 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p17%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -192,7 +192,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p17 (trace
 - **Words (OCR):** 77 in 51 lines: M462ACI · {OLCIACI LEVEL contcoi 379/404 Conroi = · cnoice · FolneaCr UEictn · ThM- · ETenet · PA EAPOST CFuideG WEcCN · pickort poiQt · "apostd H#er · FoloeAts Dutdl · aiener · 302re1ted
 - **Title block:** (226, 30)–(332, 56) mm: alycion · HSSU Da · DECK SYSTEMS · WBS IAAO- · Day At · MAGJAC
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p18 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p18%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p18 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p18%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -203,7 +203,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p18 (trace
 - **Closed boxes:** 3
 - **Words (OCR):** 13 in 13 lines: FADER · SUMMING · BUS · SUM · 8-109A · (_15dB) · I8-109F · INPUT · (-18dB) · PREfpost · PRE[POST · PRE FADE
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p19 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p19%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p19 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p19%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -217,7 +217,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p19 (trace
 - **Title block:** (112, 11)–(330, 112) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · GEe · DRN: HM · M463AC · ENG · MA STER · MODULE · CKD: · FUNCTIONAL · DIAGRAM · AP? · SCALE · 463-01-020 · ISSUE
 - **Wiring (first pass):** 62 connected wire groups from 91 runs; labelled ends: 141 mm → DIRECT, +8dBm; 103 mm → SOLO; 79 mm → SOLO; 47 mm → FB1, LEVEL, FB2; 38 mm → RS1, LEVEL, RS2
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p20 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p20%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p20 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p20%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -229,7 +229,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p20 (trace
 - **Dots (junctions):** 1
 - **Words (OCR):** 131 in 127 lines: 184 · Rio · RIz · ISk · 22 · 02 · 03 · 26440i · Pn3c+S · C8 · FADER · (INSERT)
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p21 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p21%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p21 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p21%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -241,7 +241,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p21 (trace
 - **Words (OCR):** 96 in 79 lines: +21v 21v · ZR · Rt) 253 2E · R+5 2 2 · 252 254 · 7IC DIRECT OuT · R46 2.2 · 8-I03F · Dt · BOOsTER · AMplifier · 2E1 ZE2
 - **Title block:** (224, 10)–(281, 60) mm: ISSUIDATE · WES · CKD-
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p22 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p22%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p22 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p22%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -254,7 +254,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p22 (trace
 - **Words (OCR):** 126 in 99 lines: Pn3L45 · 21401 · 214+01 Pn3L4S 2N4401 74440 · 47k · Isk · 08 · ~R2z · R23 23 · R24 Isk · Rs 22* · R3 @K · Ri3
 - **Title block:** (83, 182)–(240, 308) mm: ~Ci833/10 ~Cig · WBs Il-ca5 · A2s · 20 Lmzol · 2k5 · 2E6 · WBS IO-01/ · WBS Ml-0o5 · R42 R4i R40 R39 · Sw · WBS · swio · wBs · WBS Il-0051 Il-ooc · 1E3 · 214 · 2k5 · Wbs 10-003 · A37 R3a · WBS · Sws ·
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p23 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p23%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p23 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p23%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -266,7 +266,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p23 (trace
 - **Words (OCR):** 104 in 82 lines: P35L9 Pn3l45 21440| 214+01 · 24401 · 744401 · RiiJsK · Rs 22* ~Rio-e" · ~R3 2K2 · ~C 0i25 22 · Ri3 · Op · ~ri? 22 · ~C5JPp · 429
 - **Title block:** (189, 2)–(332, 74) mm: ISSUE DATE · REVISION · APP · WARD-BECX SYSTEMB · WBS · DRN: AM · M46 3AC · ENG. IbLp · MASTER MODULE · CKD: · COMPONENT LAYOUT · APP · SCALE · ISSUE · 463-06-028
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p24 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p24%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p24 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p24%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -278,7 +278,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p24 (trace
 - **Dots (junctions):** 2
 - **Words (OCR):** 96 in 66 lines: INPUT · NPUT · SHIELD · SHIELD · PA · Out · PA · Out · FB · OuT DI 4 · FB OuT · FB
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p25 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p25%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p25 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p25%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -288,7 +288,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p25 (trace
 - **Closed boxes:** 4; named: 4'7p
 - **Words (OCR):** 122 in 118 lines: Ri3 · +I8v · 390 · C3 · iol25 · Ri7 · Ris · 4K7 · 22 · 32 · Pn3645 · 03
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p26 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p26%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p26 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p26%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -302,7 +302,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p26 (trace
 - **Title block:** (223, 0)–(336, 59) mm: IssueIDATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN_ · GEB · 8 - 10QA · ENG.MRW 4178 · AMPLIFIER · APP · SCHEMATIC · ISSUE · SCALE · 8-109-02-002
 - **Wiring (first pass):** 27 connected wire groups from 275 runs; labelled ends: 197 mm → 2N4037, E7, 4k7; 196 mm → E3; 151 mm → 15, 220/10, E4, R3c; 150 mm → R37, 4K7, CiG, 22o/10; 105 mm → R35, 5*6, CiG, 22o/10
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p27 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p27%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p27 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p27%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -313,7 +313,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p27 (trace
 - **Closed boxes:** 2; named: Lf356; 22 Lf356
 - **Words (OCR):** 88 in 85 lines: 0E7 · E2C · #C223/6 · ~Ci · 33/10 · R16 22k · +4lk · R?_4zk · ~Ria 2ek · 4k7 · CR2z_ · L~Rzi
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p28 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p28%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p28 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p28%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -325,7 +325,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p28 (trace
 - **Words (OCR):** 38 in 33 lines: E2C · #C2 23/0 · R2_ · 47k · R6 · 48k · R7470 · 22 · LF356 · -C1o47p · ~Ciis7p · ~RIl Jk
 - **Title block:** (114, 10)–(332, 112) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYBTEMS · DRN: GEB · 8 ~ 109A · ENG.MRW 4/78 · OUTPUT AMPLIFIER · CKDRr< · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-002
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p29 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p29%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p29 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p29%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -335,7 +335,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p29 (trace
 - **Closed boxes:** 4; named: ci 4*p
 - **Words (OCR):** 126 in 122 lines: +I8v · 390 · C3 · iolz5 · Ri7 · Ris · 4k7 · 22 · 02 · PN3645 · 03 · Rs
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p30 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p30%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p30 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p30%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -349,7 +349,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p30 (trace
 - **Title block:** (227, 0)–(336, 59) mm: IssUEIDATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8~109f · ENG.MRw 4[78 · BooSTeR AMPLIFIER · CKD: · APP · SCHEMATIC · SCALE · ISSUE · 8-109-02-007
 - **Wiring (first pass):** 25 connected wire groups from 255 runs; labelled ends: 204 mm → 2N4037, E7; 200 mm → E3, 2n2102; 150 mm → R37, 4k7, ci6, 22o/10; 148 mm → 220/10, R3c, 4k7; 109 mm → R34, 5-6, 220/10
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p31 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p31%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p31 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p31%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p31 (traced).dxf`).
 
 ### Page 32
 
@@ -361,7 +361,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p31 (trace
 - **Words (OCR):** 99 in 92 lines: E7 · E2 · ~CI 33/10 +C2: · 23/6 · -C8-ep · ~RI6 22k · 47k · 22k · 6k2 · 6k2 · ~Ri8 · RS
 - **Title block:** (161, 37)–(336, 170) mm: ES · WBS · 8-109 · 2o/ecl6 - · -ci5t · 22o/6 · 4k7 · ~R374K7 · ~R36 · EG · DRI · ENG · CKC
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p32 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p32%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p32 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p32 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p32%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p32 (traced).dxf`).
 
 ### Page 33
 
@@ -373,7 +373,7 @@ Every curve, box, word and wire group: [1986 - M463AC - Master Module p32 (trace
 - **Words (OCR):** 42 in 36 lines: 23/1 · Fc2: 47k · Rz_ · Gkz · R4 · RG LK? · Iek · R7 · 22 · LF356 · ~Clof-p · ~Ril Jek
 - **Title block:** (113, 9)–(331, 110) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 ~ 109F · ENG.MRW 4/78 · BOOSTER AMPLIFIER · CKD. Rak · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 8-109-06-007
 
-Every curve, box, word and wire group: [1986 - M463AC - Master Module p33 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p33%20(traced).json) (the CAD file: `1986 - M463AC - Master Module p33 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - Master Module p33 (traced).json](../MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20p33%20%28traced%29.json) (the CAD file: `1986 - M463AC - Master Module p33 (traced).dxf`).
 
 ## Full text
 

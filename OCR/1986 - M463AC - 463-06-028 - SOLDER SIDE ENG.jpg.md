@@ -21,7 +21,7 @@ Wiki page: [M463AC](../../../../PAGES/M463AC.md)
 - **Words (OCR):** 105 in 86 lines: Pn35L9 · 214401 204401 · 214401 · 714401 · RiiJSK RS · 22k · ~R3 K2 · Ri3 · 22 · ~Ri?-22 · 499 · RA
 - **Title block:** (190, 3)–(332, 74) mm: ISSUE · DATE · REVISION · APP · WARD-BECK SYSTEMB · WBS · Drn HM · M463AC · MASTER · MODULE · CKD: · COMPONENT LAYOUT · APP · SCALE · ISSUE · 463-06- 028
 
-Every curve, box, word and wire group: [1986 - M463AC - 463-06-028 - SOLDER SIDE ENG (traced).json](../SCHEMATICS/1986%20-%20M463AC%20-%20463-06-028%20-%20SOLDER%20SIDE%20ENG%20(traced).json) (the CAD file: `1986 - M463AC - 463-06-028 - SOLDER SIDE ENG (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - 463-06-028 - SOLDER SIDE ENG (traced).json](../SCHEMATICS/1986%20-%20M463AC%20-%20463-06-028%20-%20SOLDER%20SIDE%20ENG%20%28traced%29.json) (the CAD file: `1986 - M463AC - 463-06-028 - SOLDER SIDE ENG (traced).dxf`).
 
 ## Full text
 

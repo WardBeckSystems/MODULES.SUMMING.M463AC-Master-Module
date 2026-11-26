@@ -21,7 +21,7 @@ Wiki page: [M463AC](../../../../PAGES/M463AC.md)
 - **Words (OCR):** 83 in 68 lines: WBS · MA6ZACI · controi · R39/L0: Controis · Jeve | · [0 fE · puses _ · FB · Pre/Post FOLOBACK · ShZ · cnoice · FOLDBACX shitcnes Shio ana
 - **Title block:** (140, 3)–(332, 322) mm: WBS · MA6ZACI · controi · R39/L0: Controis · Jeve | · [0 fE · puses _ · FB · Pre/Post FOLOBACK · ShZ · cnoice · Ene · ickoff · for Ene · OLDBACK ouiou · Eher · PRE · ior · 0 ( Pre) · {Post) · controi 
 
-Every curve, box, word and wire group: [1986 - M463AC - 463-04-104 - HNEN AEPRESSCO CNE POSTFADE (traced).json](../MECHANICAL/1986%20-%20M463AC%20-%20463-04-104%20-%20HNEN%20AEPRESSCO%20CNE%20POSTFADE%20(traced).json) (the CAD file: `1986 - M463AC - 463-04-104 - HNEN AEPRESSCO CNE POSTFADE (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - 463-04-104 - HNEN AEPRESSCO CNE POSTFADE (traced).json](../MECHANICAL/1986%20-%20M463AC%20-%20463-04-104%20-%20HNEN%20AEPRESSCO%20CNE%20POSTFADE%20%28traced%29.json) (the CAD file: `1986 - M463AC - 463-04-104 - HNEN AEPRESSCO CNE POSTFADE (traced).dxf`).
 
 ## Full text
 

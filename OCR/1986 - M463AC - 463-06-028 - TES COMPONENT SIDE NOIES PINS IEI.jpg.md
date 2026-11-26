@@ -21,7 +21,7 @@ Wiki page: [M463AC](../../../../PAGES/M463AC.md)
 - **Words (OCR):** 143 in 112 lines: ~C13-5005 Pn3445 Pn35L9 P13l45 214401 · 204401 ?1440 · R2i · 4k · 08 · ~R2z · R23 2k3 · R24 IsK · CRiiJsK · Rs 22k · Rio-e* R3 @k · 10r5_Ri3 22
 - **Title block:** (83, 78)–(240, 288) mm: Sw4 · 2k5 · 2E6 · WBS IO-01 · WBS Il-0o5 · R42 R4i R+o R39 · Swi · WBs ii-oosi · siwis 583 · WbS Il-0o51 Wl-eoc · 1E3 · 254 · 2k5 · Wbs 10-003 · A37 R3a · WBS · CANADA · Sws · 8-105 · swg 5w2 · WBS Il
 
-Every curve, box, word and wire group: [1986 - M463AC - 463-06-028 - TES COMPONENT SIDE NOIES PINS IEI (traced).json](../SCHEMATICS/1986%20-%20M463AC%20-%20463-06-028%20-%20TES%20COMPONENT%20SIDE%20NOIES%20PINS%20IEI%20(traced).json) (the CAD file: `1986 - M463AC - 463-06-028 - TES COMPONENT SIDE NOIES PINS IEI (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - 463-06-028 - TES COMPONENT SIDE NOIES PINS IEI (traced).json](../SCHEMATICS/1986%20-%20M463AC%20-%20463-06-028%20-%20TES%20COMPONENT%20SIDE%20NOIES%20PINS%20IEI%20%28traced%29.json) (the CAD file: `1986 - M463AC - 463-06-028 - TES COMPONENT SIDE NOIES PINS IEI (traced).dxf`).
 
 ## Full text
 

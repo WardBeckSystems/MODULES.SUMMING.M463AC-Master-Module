@@ -21,7 +21,7 @@ Wiki page: [M463AC](../../../../PAGES/M463AC.md)
 - **Words (OCR):** 146 in 141 lines: Rio · RIz · ISk · 22 · 9i · 02 · 93 · Pn3c+5 · Se · 33016 · 21v · 9-3p
 - **Wiring (first pass):** 99 connected wire groups from 491 runs; labelled ends: 202 mm → ISp, 230/6, ICp, GkZ; 173 mm → Ris, Ioo, 05, Rii; 172 mm → Pn3c+5, Se, 9-3p, R3 Bk2; 134 mm → Rcb, 2-2, +21-, Pn35c9; 133 mm → Pn3C45, RS, 22k, -18v
 
-Every curve, box, word and wire group: [1986 - M463AC - 463-02-020 - LALL RESISTO ISK (traced).json](../SCHEMATICS/1986%20-%20M463AC%20-%20463-02-020%20-%20LALL%20RESISTO%20ISK%20(traced).json) (the CAD file: `1986 - M463AC - 463-02-020 - LALL RESISTO ISK (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M463AC - 463-02-020 - LALL RESISTO ISK (traced).json](../SCHEMATICS/1986%20-%20M463AC%20-%20463-02-020%20-%20LALL%20RESISTO%20ISK%20%28traced%29.json) (the CAD file: `1986 - M463AC - 463-02-020 - LALL RESISTO ISK (traced).dxf`).
 
 ## Full text
 
