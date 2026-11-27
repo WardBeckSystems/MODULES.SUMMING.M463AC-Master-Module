@@ -13,6 +13,86 @@ Ward-Beck Systems M463AC, 1986|19. Wiki page: [M463AC on WBSps.ca](https://wardb
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 35 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1986 - M463AC - P003 - 1-1.jpg](MANUALS/1986%20-%20M463AC%20-%20P003%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 18 dB +/ -0.5 cB. (with fader &quot;in-hand&quot; position). |
+| **Frequency response** | +/_ 0.25 dB irom 20 Hz |
+| **Noise** | dB below dBm nominal output level Hz kHz). |
+| **Harmonic distortion** | Less than 0.25% from Hz kHz +28 dBm less Typically less than 0.05% across most bandwidth) |
+| **Source impedances** |  |
+| &nbsp;&nbsp;Summing | 30,000 ohms balanced |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Summing | Less than ohms |
+| **Output impedance** | Less than 100 ohms (at 8-1094 output and DIRECT ou: tput Less tnan 200 ohms MONITOR output. |
+| **Load impedance** | 600 ohms balanced (at insertion point and DIRECT output) |
+| **Output level** | -10 dBm nominal dBm nominal +30 dBm maximum insertion DIRECT output |
+| **Phasing** | Input and output terminals designated by numbers are phase |
+| **Power requirements** | +/-25 volts dc_ 200 MA maximum. mA nominal |
+| **Ambient temperature** | degrees Celsius |
+| **Dimensions** | wide 7.0&quot; high 6.5&quot; deep (41 mm 178 mm 165 mim) |
+
+## Circuit description
+
+From [1986 - M463AC - Master Module (2).pdf](MANUALS/1986%20-%20M463AC%20-%20Master%20Module%20(2).pdf) pages 4-6 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**M4 6 3AC MASTER MOOUL E**
+
+The M4 6 3AC IS d esl g n&quot;,d 10 accept combined or mh.ed feeds fl&quot;Otl'l previously a u lgned ml&quot; lng channel in pu lS. Thea s signed m i &quot; ln g channel In p u l S.... arn¢l lit ied and rou led to Ih e a p proprla l e poi nlS w il hint he consoles y. t..&quot;.
+
+Input and Summing Amp H t i....
+
+Tn e signal or lg lnal lng fl&quot;Otl'l the e&quot;lern al m i&quot; ing ne lwork is applied 10 lhe.unvn lng cu.... en l nodes of the input amp litier via edge conne&lt;; lor pin. 1 and A.
+
+01 through 08 form a.unvning amplifie.. comprising a bal.nced Input and a n unbalanced OUlpUI. to eeeeee e fOf' small sySl..&quot; level var i a ti on., trim COl R7 i. In COl&quot;'i=lOf'a led asp arI of I n e pree mp lit i.... The d lfferenl ia l baLance adjuSt men l control R6 serves 10 minimize common mode type signals orlg ln. lin g ahead of m e. mp l ifi e r. CI Z couples Ih e OUlpul of l he.u&quot;&quot;&quot;ing amplifier to a lo w-pa s stiller &lt;;QnsiSl ing o f R22, R23, R24, CU, C I 4, CIS and Z l. The 3 e e rol1-off poin l I. loca leda l appro&quot;ima lely 40 kHz.
+
+Tn&quot;, OUlpUI of ZI Is coup led through C18 to th. outp ul amplifier 8 -I09A.
+
+8 -I09A OUl p...1 Amplitler and INSERT
+
+The 8-10 9A amplifier raises the nominal signal level 100 dBm. The:::rUsl. I. active l y b.l.nced and fed 10 lhe ~ in s&quot;&quot; l poi nt&quot; atp ins I S
+
+Pin. 15 and S........ ua ll y con ne&lt;; led to a no......all edsel of In se&quot; l jacks, wi l n t n e ou tpu l. Ide connected 10 Ine maSler fader.
+
+The f. d er output Is r e t...rn e d 10 the module on pins 9 and K. The feed for Ihe PR EF AO£ o u l pUI SIs normally picked u pal Ih e ml &quot; ing f.deri n p u l.nd i...e lu r ned 10 In e module via pins 14 and R.
+
+B_l09F BOOSl er &quot;&quot;'?!.!..!!.Z:
+
+Th l. a mpl i f i... oper. tes with again o f 33 d B. It r-ecov ers tne 15 d B
+
+&quot; in. han d&quot; lou incurred b y l h e f.der and provides additional gain
+
+top ro duc e. no min. l leve! o f +8 dBm a l Its ou l put.
+
+The DIRECT outp u lap pears atp ins 16 and T.
+
+Auxiliary OulP ut s
+
+In !Iddl lion, a SOLO output is ava liable via SW7, 10 allows elect i v emo nit orin !l of I hep art ic ula r ma Sler channel. Other feeds originating from the 8_109F amplifier are $u p plied tome POSTF AOE RS, FB and PAc han n e ls.
+
+PRE/ POST Se l eClor Switches and Level Controls
+
+PRE / POSTs e le Clio n of the RS, ' F Band P A channels 1$ f aci l ll ated by switches SW2, SW3 and SW4 respect i vely; each switch Is followed b y its a.. s oci ate d level control. Theoutp ulS of the level con lrol s !Ire fed to Ih e summing ou lput s via individual &quot;$$Ignme nt switches. Following the lI$s ig n men t switch e s, Ih e s e outputs are fed to their app r op r i ate mixing buses vIa summing resistors.
+
+Control Functions
+
+Power Supply Decou pllng
+
+An eeuve power $u p ply decouplln g network consisting o f 09 through 014 provides Iso la l lon between the module and Ihe +/ _ 25 volt supply rails. TranSistors 013 and 014 monitor Ih e supply current. In thee vent of excessive power supply demands, such a s from component failure ora mp l ifie r overdrive, the current flowing Ihro ugh 0 1 1 and 012 will b e limited. a
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

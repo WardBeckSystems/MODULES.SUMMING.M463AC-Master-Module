@@ -1,0 +1,41 @@
+{
+ "module": "M463AC",
+ "source": {
+  "file": "MANUALS/1986 - M463AC - Master Module (2).pdf",
+  "pages": [
+   4,
+   5,
+   6
+  ]
+ },
+ "ocr_quality": 0.74,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": "M4 6 3AC MASTER MOOUL E",
+   "paragraphs": [
+    "The M4 6 3AC IS d esl g n\",d 10 accept combined or mh.ed feeds fl\"Otl'l previously a u lgned ml\" lng channel in pu lS. Thea s signed m i \" ln g channel In p u l S.... arn¢l lit ied and rou led to Ih e a p proprla l e poi nlS w il hint he consoles y. t..\".",
+    "Input and Summing Amp H t i....",
+    "Tn e signal or lg lnal lng fl\"Otl'l the e\"lern al m i\" ing ne lwork is applied 10 lhe.unvn lng cu.... en l nodes of the input amp litier via edge conne<; lor pin. 1 and A.",
+    "01 through 08 form a.unvning amplifie.. comprising a bal.nced Input and a n unbalanced OUlpUI. to eeeeee e fOf' small sySl..\" level var i a ti on., trim COl R7 i. In COl\"'i=lOf'a led asp arI of I n e pree mp lit i.... The d lfferenl ia l baLance adjuSt men l control R6 serves 10 minimize common mode type signals orlg ln. lin g ahead of m e. mp l ifi e r. CI Z couples Ih e OUlpul of l he.u\"\"\"ing amplifier to a lo w-pa s stiller <;QnsiSl ing o f R22, R23, R24, CU, C I 4, CIS and Z l. The 3 e e rol1-off poin l I. loca leda l appro\"ima lely 40 kHz.",
+    "Tn\", OUlpUI of ZI Is coup led through C18 to th. outp ul amplifier 8 -I09A.",
+    "8 -I09A OUl p...1 Amplitler and INSERT",
+    "The 8-10 9A amplifier raises the nominal signal level 100 dBm. The:::rUsl. I. active l y b.l.nced and fed 10 lhe ~ in s\"\" l poi nt\" atp ins I S",
+    "Pin. 15 and S........ ua ll y con ne<; led to a no......all edsel of In se\" l jacks, wi l n t n e ou tpu l. Ide connected 10 Ine maSler fader.",
+    "The f. d er output Is r e t...rn e d 10 the module on pins 9 and K. The feed for Ihe PR EF AO£ o u l pUI SIs normally picked u pal Ih e ml \" ing f.deri n p u l.nd i...e lu r ned 10 In e module via pins 14 and R.",
+    "B_l09F BOOSl er \"\"'?!.!..!!.Z:",
+    "Th l. a mpl i f i... oper. tes with again o f 33 d B. It r-ecov ers tne 15 d B",
+    "\" in. han d\" lou incurred b y l h e f.der and provides additional gain",
+    "top ro duc e. no min. l leve! o f +8 dBm a l Its ou l put.",
+    "The DIRECT outp u lap pears atp ins 16 and T.",
+    "Auxiliary OulP ut s",
+    "In !Iddl lion, a SOLO output is ava liable via SW7, 10 allows elect i v emo nit orin !l of I hep art ic ula r ma Sler channel. Other feeds originating from the 8_109F amplifier are $u p plied tome POSTF AOE RS, FB and PAc han n e ls.",
+    "PRE/ POST Se l eClor Switches and Level Controls",
+    "PRE / POSTs e le Clio n of the RS, ' F Band P A channels 1$ f aci l ll ated by switches SW2, SW3 and SW4 respect i vely; each switch Is followed b y its a.. s oci ate d level control. Theoutp ulS of the level con lrol s !Ire fed to Ih e summing ou lput s via individual \"$$Ignme nt switches. Following the lI$s ig n men t switch e s, Ih e s e outputs are fed to their app r op r i ate mixing buses vIa summing resistors.",
+    "Control Functions",
+    "Power Supply Decou pllng",
+    "An eeuve power $u p ply decouplln g network consisting o f 09 through 014 provides Iso la l lon between the module and Ihe +/ _ 25 volt supply rails. TranSistors 013 and 014 monitor Ih e supply current. In thee vent of excessive power supply demands, such a s from component failure ora mp l ifie r overdrive, the current flowing Ihro ugh 0 1 1 and 012 will b e limited. a"
+   ]
+  }
+ ]
+}
