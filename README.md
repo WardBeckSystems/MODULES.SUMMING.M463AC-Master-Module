@@ -1,6 +1,6 @@
 # M463AC Master Module · Summing
 
-Ward-Beck Systems M463AC, 1986|19. Wiki page: [M463AC on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M463AC.html)
+Ward-Beck Systems M463AC, 1986|19. Wiki page: [M463AC on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463AC-Master-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1986 - M463AC - 463-02-020 - LALL RESISTO ISK.jpg
-Wiki page: [M463AC](../../../../PAGES/M463AC.md)
+Wiki page: [M463AC](../)
 
 
 - **Year:** 1986 (module estimate (manual_issue))

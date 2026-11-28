@@ -1,5 +1,5 @@
 # 1986 - M463AC - P001 - Title Page.jpg
-Wiki page: [M463AC](../../../../PAGES/M463AC.md)
+Wiki page: [M463AC](../)
 
 
 - **Year:** 1986 (found in this file: "MANUAL ISSUE #1 APRIL 1986")
