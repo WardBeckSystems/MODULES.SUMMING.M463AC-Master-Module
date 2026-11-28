@@ -101,6 +101,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMHpUSEtXNmZvV0U/view?resourcekey=0-eArlgHsNDE3ktPPa_vIZKA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMHpUSEtXNmZvV0U&resourcekey=0-eArlgHsNDE3ktPPa_vIZKA" width="240" alt="1986 - M463AC - 463-04-104 - HNEN AEPRESSCO CNE POSTFADE.jpg"></a><br><sub>1986|19 · 463-04-104 - HNEN AEPRESSCO CNE POSTFADE · <a href="MECHANICAL/1986%20-%20M463AC%20-%20463-04-104%20-%20HNEN%20AEPRESSCO%20CNE%20POSTFADE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M463AC.stl`](MECHANICAL/M463AC.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M463AC)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: wide 7.0" high 6.5" deep (41 mm 178 mm 165 mim))
+- **From the drawing:** 7 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M463AC - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M463AC.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
